@@ -10,7 +10,7 @@ body {
   /* background-repeat: repeat-x; */
 }
 
-.main-content {
+#main-content {
   position: relative;
   height: 100vh;
   /* text-align: center;
@@ -94,7 +94,7 @@ video {
   border-radius: 50%;
   position: absolute;
   right: 15px;
-  top: 60px;
+  top: 70px;
 }
 
 .content-block {
