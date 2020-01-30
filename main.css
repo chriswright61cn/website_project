@@ -141,7 +141,8 @@ footer {
   right: 15px;
 }
 
-footer a {
+footer a:link,
+footer a:visited {
   color: yellow;
 }
 
