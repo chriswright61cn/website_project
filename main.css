@@ -118,7 +118,7 @@ video {
   padding: 15px;
   border: 0 solid white;
   border-radius: 15px;
-  margin-left: 40px;
+  margin-left: 220px;
   margin-top: 10px;
 }
 
@@ -139,6 +139,10 @@ footer {
   position: absolute;
   bottom: 15px;
   right: 15px;
+}
+
+footer a {
+  color: yellow;
 }
 
 .target {
